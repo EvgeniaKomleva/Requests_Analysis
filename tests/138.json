@@ -1,0 +1,35 @@
+{
+    "DateInterval": [
+        {
+            "id": "144",
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 42,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 20,
+                    "annotationText": "третий"
+                }
+            },
+            "quarter_start_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10,
+                    "annotationText": "первого"
+                }
+            }
+        }
+    ],
+    "Author": [],
+    "documentText": " с первого по третий квартал прошлого года "
+}

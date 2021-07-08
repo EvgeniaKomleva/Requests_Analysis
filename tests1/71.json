@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 72,
+            "year_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 1,
+                        "annotationEnd": 7,
+                        "annotationText": " за год"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за год "
+}

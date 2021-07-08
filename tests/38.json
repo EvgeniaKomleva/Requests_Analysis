@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "44",
+            "month_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 25,
+                        "annotationText": " три предыдущих месяца"
+                    }
+                }
+            ],
+            "month_cardinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 8,
+                        "annotationEnd": 25,
+                        "annotationText": " предыдущих месяца"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за три предыдущих месяца "
+}

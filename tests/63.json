@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "69",
+            "quarter_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 1,
+                        "annotationEnd": 11,
+                        "annotationText": " за квартал"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за квартал "
+}

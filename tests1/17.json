@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 18,
+            "month_cardinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 27,
+                        "annotationText": " четыре месяца"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за последние четыре месяца "
+}

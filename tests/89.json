@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "95",
+            "year_ordinal": [
+                {
+                    "value": 2021,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 8,
+                        "annotationText": " 2021"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за 2021 "
+}

@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 34,
+            "quarter_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 22,
+                        "annotationText": " предыдущий квартал"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за предыдущий квартал "
+}

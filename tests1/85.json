@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 86,
+            "month_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 10,
+                        "annotationText": " апрель"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2008,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 15,
+                        "annotationText": " 2008"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за апрель 2008 "
+}

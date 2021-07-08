@@ -1,0 +1,33 @@
+{
+    "DateInterval": [
+        {
+            "id": 151,
+            "week_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 33,
+                        "annotationEnd": 47,
+                        "annotationText": " прошлой неделе"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": 151,
+            "Person1": {
+                "text": "Ивана Петровича",
+                "firstname": "иван",
+                "surname": "пётр",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 29
+                }
+            }
+        }
+    ],
+    "documentText": " квитанция от Ивана Петровича на прошлой неделе pdf "
+}

@@ -1,0 +1,69 @@
+{
+    "DateInterval": [
+        {
+            "id": "137",
+            "day_start_ordinal": [
+                {
+                    "value": "01",
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 5,
+                        "annotationText": "01"
+                    }
+                }
+            ],
+            "day_end_ordinal": [
+                {
+                    "value": "21",
+                    "annotations": {
+                        "annotationStart": 17,
+                        "annotationEnd": 19,
+                        "annotationText": "21"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": "02",
+                    "annotations": {
+                        "annotationStart": 6,
+                        "annotationEnd": 8,
+                        "annotationText": "02"
+                    }
+                }
+            ],
+            "month_end_ordinal": [
+                {
+                    "value": "12",
+                    "annotations": {
+                        "annotationStart": 20,
+                        "annotationEnd": 22,
+                        "annotationText": "12"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": "2003",
+                    "annotations": {
+                        "annotationStart": 9,
+                        "annotationEnd": 13,
+                        "annotationText": "2003"
+                    }
+                }
+            ],
+            "year_end_ordinal": [
+                {
+                    "value": "2012",
+                    "annotations": {
+                        "annotationStart": 23,
+                        "annotationEnd": 27,
+                        "annotationText": "2012"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " с 01.02.2003 по 21.12.2012 ",
+    "Author": []
+}

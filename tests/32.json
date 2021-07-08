@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "38",
+            "month_cardinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 1,
+                        "annotationEnd": 20,
+                        "annotationText": " за предыдущий месяц"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за предыдущий месяц "
+}

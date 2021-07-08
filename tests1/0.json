@@ -1,0 +1,73 @@
+{
+    "DateInterval": [
+        {
+            "id": 1,
+            "quarter_end_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 57,
+                        "annotationEnd": 71,
+                        "annotationText": " третий квартал"
+                    }
+                }
+            ],
+            "year_end_ordinal": [
+                {
+                    "value": 2020,
+                    "annotations": {
+                        "annotationStart": 72,
+                        "annotationEnd": 76,
+                        "annotationText": " 2020"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 32,
+                        "annotationEnd": 48,
+                        "annotationText": " второго квартала"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 49,
+                        "annotationEnd": 53,
+                        "annotationText": " 2019"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": 1,
+            "Person1": {
+                "text": "Ивана Иванова",
+                "firstname": "иван",
+                "surname": "иванов",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 6,
+                    "annotationEnd": 19
+                }
+            },
+            "Person2": {
+                "text": "Марии",
+                "firstname": "мария",
+                "surname": "",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 22,
+                    "annotationEnd": 27
+                }
+            }
+        }
+    ],
+    "documentText": "отчет Ивана Иванова и Марии  со второго квартала 2019 по третий квартал 2020  "
+}

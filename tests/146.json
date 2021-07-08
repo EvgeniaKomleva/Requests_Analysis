@@ -1,0 +1,43 @@
+{
+    "DateInterval": [
+        {
+            "id": "154",
+            "week_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 33,
+                        "annotationEnd": 47,
+                        "annotationText": " прошлой неделе"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": "155",
+            "firstname": [
+                {
+                    "value": "иван",
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 29,
+                        "annotationText": "Ивана Петровича"
+                    }
+                }
+            ],
+            "surname": [
+                {
+                    "value": "пётр",
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 29,
+                        "annotationText": "Ивана Петровича"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " квитанция от Ивана Петровича на прошлой неделе pdf "
+}

@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "127",
+            "month_ordinal": [
+                {
+                    "value": 5,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 6,
+                        "annotationText": " мае"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": -2,
+                    "annotations": {
+                        "annotationStart": 7,
+                        "annotationEnd": 24,
+                        "annotationText": " позапрошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " в мае позапрошлого года "
+}

@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "97",
+            "month_ordinal": [
+                {
+                    "value": 6,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 8,
+                        "annotationText": " июнь"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 9,
+                        "annotationEnd": 22,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за июнь прошлого года "
+}

@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 109,
+            "month_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 7,
+                        "annotationEnd": 13,
+                        "annotationText": " апреля"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2010,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 18,
+                        "annotationText": " 2010"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " после апреля 2010 года "
+}

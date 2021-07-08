@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 120,
+            "month_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 8,
+                        "annotationText": " марте"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2012,
+                    "annotations": {
+                        "annotationStart": 9,
+                        "annotationEnd": 13,
+                        "annotationText": " 2012"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " в марте 2012 года "
+}

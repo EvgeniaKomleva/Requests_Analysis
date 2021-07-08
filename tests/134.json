@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "140",
+            "day_ordinal": [
+                {
+                    "value": 22,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 18,
+                        "annotationText": " октября"
+                    }
+                }
+            ],
+            "month_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 26,
+                        "annotationEnd": 32,
+                        "annotationText": " апреля"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " с двадцать второго числа апреля месяца "
+}

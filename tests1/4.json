@@ -1,0 +1,18 @@
+{
+    "Author": [
+        {
+            "id": 5,
+            "Person1": {
+                "text": "Иванова",
+                "firstname": "",
+                "surname": "иванов",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 10,
+                    "annotationEnd": 17
+                }
+            }
+        }
+    ],
+    "documentText": "квитанции Иванова "
+}

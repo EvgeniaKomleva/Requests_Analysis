@@ -1,0 +1,49 @@
+{
+    "DateInterval": [
+        {
+            "id": 140,
+            "month_ordinal": [
+                {
+                    "value": 9,
+                    "annotations": {
+                        "annotationStart": 17,
+                        "annotationEnd": 25,
+                        "annotationText": " сентября"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2013,
+                    "annotations": {
+                        "annotationStart": 26,
+                        "annotationEnd": 30,
+                        "annotationText": " 2013"
+                    }
+                }
+            ],
+            "week_end_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 8,
+                        "annotationEnd": 16,
+                        "annotationText": " 3 неделю"
+                    }
+                }
+            ],
+            "week_start_cardinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 4,
+                    "annotationText": "1"
+                }
+            }
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с 1 по 3 неделю сентября 2013 года "
+}

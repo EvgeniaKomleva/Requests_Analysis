@@ -1,0 +1,33 @@
+{
+    "DateInterval": [
+        {
+            "id": 151,
+            "quarter_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 36,
+                        "annotationEnd": 51,
+                        "annotationText": " прошлый квартал"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": 151,
+            "Person1": {
+                "text": "Светланы",
+                "firstname": "светлана",
+                "surname": "",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 19,
+                    "annotationEnd": 27
+                }
+            }
+        }
+    ],
+    "documentText": " квартальный отчет Светланы docx за прошлый квартал "
+}

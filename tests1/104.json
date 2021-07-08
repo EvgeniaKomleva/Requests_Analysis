@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 105,
+            "quarter_cardinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 13,
+                        "annotationText": " 4 квартал"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2020,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 18,
+                        "annotationText": " 2020"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за 4 квартал 2020 года "
+}

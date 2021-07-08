@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 87,
+            "month_ordinal": [
+                {
+                    "value": 8,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 10,
+                        "annotationText": " август"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 15,
+                        "annotationText": " 2019"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за август 2019 года "
+}

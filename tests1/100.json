@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 101,
+            "week_cardinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 12,
+                        "annotationText": " 2 неделю"
+                    }
+                }
+            ],
+            "month_cardinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 13,
+                        "annotationEnd": 28,
+                        "annotationText": " прошлого месяца"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за 2 неделю прошлого месяца "
+}

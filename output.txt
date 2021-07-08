@@ -1,0 +1,2 @@
+DateInterval : {'month_ordinal': {'value': 4, 'annotations': {'start': 13, 'stop': 19}}, 'year_modifier': {'value': -2, 'annotations': {'start': 20, 'stop': 37}}}
+{1: {'start': 2, 'stop': 9, 'word': 'февраля', 'entity': 'month_ordinal', 'value': 2}, 2: {'start': 13, 'stop': 19, 'word': 'апрель', 'entity': 'month_ordinal', 'value': 4}, 3: {'start': 20, 'stop': 37, 'word': 'позапрошлого', 'entity': 'year_modifier', 'value': -2}}

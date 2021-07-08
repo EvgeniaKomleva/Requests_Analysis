@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 115,
+            "month_end_ordinal": [
+                {
+                    "value": 12,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 18,
+                        "annotationText": " декабрь"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 6,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 7,
+                        "annotationText": " июня"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с июня по декабрь "
+}

@@ -1,0 +1,49 @@
+{
+    "DateInterval": [
+        {
+            "id": "35",
+            "year_end_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 23,
+                        "annotationText": " четыре прошлых года"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 23,
+                        "annotationText": " прошлых года"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 23,
+                        "annotationText": " четыре прошлых года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 23,
+                        "annotationText": " прошлых года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за четыре прошлых года "
+}

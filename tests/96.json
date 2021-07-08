@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "102",
+            "quarter_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 18,
+                        "annotationText": " третий квартал"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 19,
+                        "annotationEnd": 35,
+                        "annotationText": " предыдущего года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за третий квартал предыдущего года "
+}

@@ -1,0 +1,33 @@
+{
+    "DateInterval": [
+        {
+            "id": "152",
+            "day_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 22,
+                        "annotationEnd": 29,
+                        "annotationText": " три дня"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": "153",
+            "surname": [
+                {
+                    "value": "сидоров",
+                    "annotations": {
+                        "annotationStart": 9,
+                        "annotationEnd": 17,
+                        "annotationText": "Сидорова"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " справка Сидорова pdf три дня назад "
+}

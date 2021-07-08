@@ -1,0 +1,29 @@
+{
+    "DateInterval": [
+        {
+            "id": "105",
+            "half_year": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 20,
+                        "annotationText": " второе полугодие"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 21,
+                        "annotationEnd": 34,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за второе полугодие прошлого года "
+}

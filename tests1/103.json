@@ -1,0 +1,51 @@
+{
+    "DateInterval": [
+        {
+            "id": 104,
+            "day_cardinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 15,
+                        "annotationText": " второй день"
+                    }
+                }
+            ],
+            "week_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 16,
+                        "annotationEnd": 30,
+                        "annotationText": " третьей недели"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 31,
+                        "annotationEnd": 47,
+                        "annotationText": " второго квартала"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 31,
+                        "annotationEnd": 47,
+                        "annotationText": " второго квартала"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за второй день третьей недели второго квартала "
+}

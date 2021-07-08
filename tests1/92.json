@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 93,
+            "month_ordinal": [
+                {
+                    "value": 8,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 10,
+                        "annotationText": " август"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": -2,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 28,
+                        "annotationText": " позапрошлого года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -2,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 28,
+                        "annotationText": " позапрошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за август позапрошлого года "
+}

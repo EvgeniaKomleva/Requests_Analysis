@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 84,
+            "month_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 10,
+                        "annotationText": " январь"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за январь "
+}

@@ -1,0 +1,17 @@
+{
+    "Author": [
+        {
+            "surname": [
+                {
+                    "value": "@Me",
+                    "annotations": {
+                        "annotationStart": 0,
+                        "annotationEnd": 4,
+                        "annotationText": "мои "
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": "мои отчеты c портала"
+}

@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "80",
+            "year_cardinal": [
+                {
+                    "value": 10,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 14,
+                        "annotationText": " десять лет"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за десять лет "
+}

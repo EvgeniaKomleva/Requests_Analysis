@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 36,
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 18,
+                        "annotationText": " предыдущий год"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за предыдущий год "
+}

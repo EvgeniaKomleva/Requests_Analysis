@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 145,
+            "year_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 40,
+                        "annotationText": " прошлый год"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " Иванов справка о доходах за прошлый год "
+}

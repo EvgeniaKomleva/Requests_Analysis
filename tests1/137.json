@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 138,
+            "week_cardinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 30,
+                        "annotationText": " четвертую неделю"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 31,
+                        "annotationEnd": 47,
+                        "annotationText": " первого квартала"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 31,
+                        "annotationEnd": 47,
+                        "annotationText": " первого квартала"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " со второй по четвертую неделю первого квартала "
+}

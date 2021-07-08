@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 20,
+            "year_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 22,
+                        "annotationText": " три года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за последние три года "
+}

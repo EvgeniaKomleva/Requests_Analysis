@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 65,
+            "quarter_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 16,
+                        "annotationText": " один квартал"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за один квартал "
+}

@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 94,
+            "quarter_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 18,
+                        "annotationText": " первый квартал"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": 0,
+                    "annotations": {
+                        "annotationStart": 19,
+                        "annotationEnd": 32,
+                        "annotationText": " текущего года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": 0,
+                    "annotations": {
+                        "annotationStart": 19,
+                        "annotationEnd": 32,
+                        "annotationText": " текущего года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за первый квартал текущего года "
+}

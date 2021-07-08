@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 99,
+            "month_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 11,
+                        "annotationText": " февраль"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 12,
+                        "annotationEnd": 25,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 12,
+                        "annotationEnd": 25,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за февраль прошлого года "
+}

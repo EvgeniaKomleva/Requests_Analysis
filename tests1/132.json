@@ -1,0 +1,28 @@
+{
+    "DateInterval": [
+        {
+            "id": 132,
+            "day_ordinal": [
+                {
+                    "value": "01",
+                    "annotations": {
+                        "annotationStart": 12,
+                        "annotationEnd": 17,
+                        "annotationText": " 01 . 12"
+                    }
+                }
+            ],
+            "mouth_ordinal": [
+                {
+                    "value": "02",
+                    "annotations": {
+                        "annotationStart": 12,
+                        "annotationEnd": 17,
+                        "annotationText": " 01 . 12"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " с 01.02 по 21.12 "
+}

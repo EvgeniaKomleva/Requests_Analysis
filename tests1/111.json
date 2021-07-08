@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 112,
+            "month_end_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 20,
+                        "annotationText": " апрель"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": -2,
+                    "annotations": {
+                        "annotationStart": 21,
+                        "annotationEnd": 38,
+                        "annotationText": " позапрошлого года"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 10,
+                        "annotationText": " февраля"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с февраля по апрель позапрошлого года "
+}

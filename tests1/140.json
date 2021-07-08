@@ -1,0 +1,51 @@
+{
+    "DateInterval": [
+        {
+            "id": 141,
+            "quarter_end_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 43,
+                        "annotationText": " третий квартал"
+                    }
+                }
+            ],
+            "year_end_ordinal": [
+                {
+                    "value": 2020,
+                    "annotations": {
+                        "annotationStart": 44,
+                        "annotationEnd": 48,
+                        "annotationText": " 2020"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 20,
+                        "annotationText": " второго квартала"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 21,
+                        "annotationEnd": 25,
+                        "annotationText": " 2019"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " со второго квартала 2019 по третий квартал 2020 "
+}

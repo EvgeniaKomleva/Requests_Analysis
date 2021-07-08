@@ -1,0 +1,674 @@
+{
+    "DateInterval": [
+        {
+            "id": 1,
+            "month_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 9
+                }
+            },
+            "month_ordinal_stop": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 19
+                }
+            },
+            "year_modifier": {
+                "value": -2,
+                "annotations": {
+                    "annotationStart": 20,
+                    "annotationEnd": 37
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 \u0444\u0435\u0432\u0440\u0430\u043b\u044f \u043f\u043e \u0430\u043f\u0440\u0435\u043b\u044c \u043f\u043e\u0437\u0430\u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 2,
+            "quarter_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 17
+                }
+            },
+            "year_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 18,
+                    "annotationEnd": 34
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0432\u0442\u043e\u0440\u043e\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0433\u043e \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 3,
+            "week_cardinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 0,
+                    "annotationEnd": 16
+                }
+            },
+            "week_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 16
+                }
+            },
+            "month_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 17,
+                    "annotationEnd": 32
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0432\u0442\u043e\u0440\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e \u043c\u0435\u0441\u044f\u0446\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 4,
+            "week_cardinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 0,
+                    "annotationEnd": 16
+                }
+            },
+            "week_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 16
+                }
+            },
+            "month_ordinal": {
+                "value": 9,
+                "annotations": {
+                    "annotationStart": 17,
+                    "annotationEnd": 25
+                }
+            },
+            "year_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 26,
+                    "annotationEnd": 39
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u043f\u0435\u0440\u0432\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 5,
+            "day_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 14
+                }
+            },
+            "day_cardinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 14
+                }
+            },
+            "error": {
+                "value": "error",
+                "annotations": {
+                    "annotationStart": 10,
+                    "annotationEnd": 14
+                }
+            },
+            "week_ordinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 15,
+                    "annotationEnd": 29
+                }
+            },
+            "quarter_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 30,
+                    "annotationEnd": 46
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0432\u0442\u043e\u0440\u043e\u0439 \u0434\u0435\u043d\u044c \u0442\u0440\u0435\u0442\u044c\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0438 \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 6,
+            "month_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 15
+                }
+            },
+            "month_cardinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 15
+                }
+            },
+            "year_ordinal": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 16,
+                    "annotationEnd": 20
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 16,
+                    "annotationEnd": 25
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u043f\u0435\u0440\u0432\u044b\u0439 \u043c\u0435\u0441\u044f\u0446 2020 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 7,
+            "week_cardinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 13
+                }
+            },
+            "quarter_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 30
+                }
+            },
+            "year_ordinal": {
+                "value": 2019,
+                "annotations": {
+                    "annotationStart": 31,
+                    "annotationEnd": 35
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2019,
+                "annotations": {
+                    "annotationStart": 31,
+                    "annotationEnd": 40
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0442\u0440\u0438 \u043d\u0435\u0434\u0435\u043b\u0438 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u0430 2019 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 8,
+            "quarter_cardinal": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 12
+                }
+            },
+            "year_ordinal": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 17
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 22
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 4 \u043a\u0432\u0430\u0440\u0442\u0430\u043b 2020 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 9,
+            "error": {
+                "value": "error",
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10
+                }
+            },
+            "day_ordinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10
+                }
+            },
+            "day_cardinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10
+                }
+            },
+            "error_stop": {
+                "value": "error",
+                "annotations": {
+                    "annotationStart": 7,
+                    "annotationEnd": 10
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0442\u0440\u0438 \u0434\u043d\u044f"
+}
+{
+    "DateInterval": [
+        {
+            "id": 10,
+            "week_cardinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 0,
+                    "annotationEnd": 17
+                }
+            },
+            "week_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 17
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u043f\u0440\u043e\u0448\u043b\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e"
+}
+{
+    "DateInterval": [
+        {
+            "id": 11,
+            "month_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 19
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u043c\u0435\u0441\u044f\u0446"
+}
+{
+    "DateInterval": [
+        {
+            "id": 12,
+            "month_ordinal": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 8
+                }
+            },
+            "year_ordinal": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 9,
+                    "annotationEnd": 13
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 9,
+                    "annotationEnd": 18
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 \u0430\u043f\u0440\u0435\u043b\u044f 2010 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 13,
+            "month_ordinal": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 6,
+                    "annotationEnd": 12
+                }
+            },
+            "year_ordinal": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 17
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 22
+                }
+            }
+        }
+    ],
+    "documentText": "\u043f\u043e\u0441\u043b\u0435 \u0430\u043f\u0440\u0435\u043b\u044f 2010 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 14,
+            "month_ordinal": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 9
+                }
+            },
+            "year_ordinal": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 10,
+                    "annotationEnd": 14
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2010,
+                "annotations": {
+                    "annotationStart": 10,
+                    "annotationEnd": 19
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u0430\u043f\u0440\u0435\u043b\u044c 2010 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 15,
+            "month_ordinal": {
+                "value": 5,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 5
+                }
+            },
+            "month_ordinal_stop": {
+                "value": 6,
+                "annotations": {
+                    "annotationStart": 9,
+                    "annotationEnd": 13
+                }
+            },
+            "year_ordinal": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 18
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 23
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 \u043c\u0430\u044f \u043f\u043e \u0438\u044e\u043d\u044c 2020 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 16,
+            "month_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 9
+                }
+            },
+            "month_ordinal_stop": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 19
+                }
+            },
+            "year_modifier": {
+                "value": -2,
+                "annotations": {
+                    "annotationStart": 20,
+                    "annotationEnd": 37
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 \u0444\u0435\u0432\u0440\u0430\u043b\u044f \u043f\u043e \u0430\u043f\u0440\u0435\u043b\u044c \u043f\u043e\u0437\u0430\u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 17,
+            "month_ordinal": {
+                "value": 6,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 7
+                }
+            },
+            "month_ordinal_stop": {
+                "value": 0,
+                "annotations": {
+                    "annotationStart": 8,
+                    "annotationEnd": 16
+                }
+            },
+            "year_modifier": {
+                "value": 0,
+                "annotations": {
+                    "annotationStart": 8,
+                    "annotationEnd": 21
+                }
+            }
+        }
+    ],
+    "documentText": "\u0434\u043e \u0438\u044e\u043d\u044f \u0442\u0435\u043a\u0443\u0449\u0435\u0433\u043e \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 18,
+            "year_cardinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 21
+                }
+            }
+        }
+    ],
+    "documentText": "\u0437\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0442\u0440\u0438 \u0433\u043e\u0434\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 19,
+            "year_ordinal": {
+                "value": 2018,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 6
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2018,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 11
+                }
+            }
+        }
+    ],
+    "documentText": "\u0432 2018 \u0433\u043e\u0434\u0443"
+}
+{
+    "DateInterval": [
+        {
+            "id": 20,
+            "day_ordinal": {
+                "value": "01",
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 7
+                }
+            },
+            "day_ordinal_stop": {
+                "value": "01",
+                "annotations": {
+                    "annotationStart": 11,
+                    "annotationEnd": 16
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 01.10 \u043f\u043e 01.12"
+}
+{
+    "DateInterval": [
+        {
+            "id": 21,
+            "week_ordinal": {
+                "value": 4,
+                "annotations": {
+                    "annotationStart": 13,
+                    "annotationEnd": 29
+                }
+            },
+            "quarter_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 30,
+                    "annotationEnd": 46
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441\u043e \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u0430"
+}
+{
+    "DateInterval": [
+        {
+            "id": 22,
+            "quarter_ordinal": {
+                "value": 2,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 19
+                }
+            },
+            "year_ordinal": {
+                "value": 2019,
+                "annotations": {
+                    "annotationStart": 20,
+                    "annotationEnd": 24
+                }
+            },
+            "quarter_ordinal_stop": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 28,
+                    "annotationEnd": 42
+                }
+            },
+            "year_ordinal_stop": {
+                "value": 2020,
+                "annotations": {
+                    "annotationStart": 43,
+                    "annotationEnd": 47
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441\u043e \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u0430 2019 \u043f\u043e \u0442\u0440\u0435\u0442\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b 2020"
+}
+{
+    "DateInterval": [
+        {
+            "id": 23,
+            "month_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 2,
+                    "annotationEnd": 8
+                }
+            },
+            "month_ordinal_stop": {
+                "value": 5,
+                "annotations": {
+                    "annotationStart": 12,
+                    "annotationEnd": 15
+                }
+            },
+            "year_ordinal": {
+                "value": 2019,
+                "annotations": {
+                    "annotationStart": 16,
+                    "annotationEnd": 20
+                }
+            },
+            "quarter_ordinal": {
+                "value": 3,
+                "annotations": {
+                    "annotationStart": 36,
+                    "annotationEnd": 50
+                }
+            },
+            "year_modifier": {
+                "value": -1,
+                "annotations": {
+                    "annotationStart": 51,
+                    "annotationEnd": 64
+                }
+            }
+        }
+    ],
+    "documentText": "\u0441 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e \u043c\u0430\u0439 2019 \u0438 \u0441 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u043e \u0442\u0440\u0435\u0442\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e \u0433\u043e\u0434\u0430"
+}

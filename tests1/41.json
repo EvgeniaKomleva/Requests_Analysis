@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 42,
+            "day_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 13,
+                        "annotationText": " один день"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за один день "
+}

@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 50,
+            "week_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 15,
+                        "annotationText": " одну неделю"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за одну неделю "
+}

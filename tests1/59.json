@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 60,
+            "month_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 11,
+                        "annotationText": " 1 месяц"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за 1 месяц "
+}

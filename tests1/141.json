@@ -1,0 +1,79 @@
+{
+    "DateInterval": [
+        {
+            "id": 142,
+            "month_end_ordinal": [
+                {
+                    "value": 5,
+                    "annotations": {
+                        "annotationStart": 13,
+                        "annotationEnd": 16,
+                        "annotationText": " май"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 17,
+                        "annotationEnd": 21,
+                        "annotationText": " 2019"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 52,
+                        "annotationEnd": 65,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 9,
+                        "annotationText": " января"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 52,
+                        "annotationEnd": 65,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 37,
+                        "annotationEnd": 51,
+                        "annotationText": " третий квартал"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 26,
+                    "annotationEnd": 33,
+                    "annotationText": "первого"
+                }
+            }
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с января по май 2019 и с первого по третий квартал прошлого года "
+}

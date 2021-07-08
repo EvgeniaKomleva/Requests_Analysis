@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 123,
+            "quarter_ordinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 19,
+                        "annotationText": " втором квартале"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " во втором квартале "
+}

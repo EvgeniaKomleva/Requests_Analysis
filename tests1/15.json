@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 16,
+            "day_cardinal": [
+                {
+                    "value": 2,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 21,
+                        "annotationText": " два дня"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за последние два дня "
+}

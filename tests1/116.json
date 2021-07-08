@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 117,
+            "month_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 23,
+                        "annotationEnd": 29,
+                        "annotationText": " апреля"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 30,
+                        "annotationEnd": 34,
+                        "annotationText": " 2019"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с первого до десятого апреля 2019 года "
+}

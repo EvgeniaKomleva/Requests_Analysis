@@ -1,0 +1,18 @@
+{
+    "Author": [
+        {
+            "id": "7",
+            "surname": [
+                {
+                    "value": "павлов",
+                    "annotations": {
+                        "annotationStart": 7,
+                        "annotationEnd": 14,
+                        "annotationText": "Павлова"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": "приказ Павлова"
+}

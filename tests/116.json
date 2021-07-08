@@ -1,0 +1,45 @@
+{
+    "DateInterval": [
+        {
+            "id": "122",
+            "year_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 30,
+                        "annotationEnd": 34,
+                        "annotationText": " 2019"
+                    }
+                }
+            ],
+            "month_end_ordinal": [
+                {
+                    "value": 4,
+                    "annotations": {
+                        "annotationStart": 23,
+                        "annotationEnd": 29,
+                        "annotationText": " апреля"
+                    }
+                }
+            ],
+            "day_start_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10,
+                    "annotationText": "первого"
+                }
+            },
+            "day_end_ordinal": {
+                "value": 10,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 22,
+                    "annotationText": "десятого"
+                }
+            }
+        }
+    ],
+    "Author": [],
+    "documentText": " с первого до десятого апреля 2019 года "
+}

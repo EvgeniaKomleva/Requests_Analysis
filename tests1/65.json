@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 66,
+            "quarter_end_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 16,
+                        "annotationText": " три квартала"
+                    }
+                }
+            ],
+            "quarter_start_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 16,
+                        "annotationText": " три квартала"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за три квартала "
+}

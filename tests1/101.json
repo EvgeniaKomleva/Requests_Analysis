@@ -1,0 +1,51 @@
+{
+    "DateInterval": [
+        {
+            "id": 102,
+            "week_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 17,
+                        "annotationText": " первую неделю"
+                    }
+                }
+            ],
+            "month_ordinal": [
+                {
+                    "value": 9,
+                    "annotations": {
+                        "annotationStart": 18,
+                        "annotationEnd": 26,
+                        "annotationText": " сентября"
+                    }
+                }
+            ],
+            "year_end_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 27,
+                        "annotationEnd": 40,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 27,
+                        "annotationEnd": 40,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за первую неделю сентября прошлого года "
+}

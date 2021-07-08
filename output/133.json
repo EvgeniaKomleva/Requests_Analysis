@@ -1,0 +1,45 @@
+{
+    "DateInterval": [
+        {
+            "id": "139",
+            "year_ordinal": [
+                {
+                    "value": 2012,
+                    "annotations": {
+                        "annotationStart": 30,
+                        "annotationEnd": 34,
+                        "annotationText": " 2012"
+                    }
+                }
+            ],
+            "month_end_ordinal": [
+                {
+                    "value": 12,
+                    "annotations": {
+                        "annotationStart": 22,
+                        "annotationEnd": 29,
+                        "annotationText": " декабря"
+                    }
+                }
+            ],
+            "day_start_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10,
+                    "annotationText": "первого"
+                }
+            },
+            "day_end_ordinal": {
+                "value": 10,
+                "annotations": {
+                    "annotationStart": 14,
+                    "annotationEnd": 21,
+                    "annotationText": "десятое"
+                }
+            }
+        }
+    ],
+    "Author": [],
+    "documentText": " с первого по десятое декабря 2012 года "
+}

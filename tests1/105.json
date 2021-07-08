@@ -1,0 +1,61 @@
+{
+    "DateInterval": [
+        {
+            "id": 106,
+            "week_end_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 14,
+                        "annotationText": " три недели"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 15,
+                        "annotationEnd": 31,
+                        "annotationText": " первого квартала"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2019,
+                    "annotations": {
+                        "annotationStart": 32,
+                        "annotationEnd": 36,
+                        "annotationText": " 2019"
+                    }
+                }
+            ],
+            "week_start_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 14,
+                        "annotationText": " три недели"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 15,
+                        "annotationEnd": 31,
+                        "annotationText": " первого квартала"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за три недели первого квартала 2019 года "
+}

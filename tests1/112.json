@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 113,
+            "month_ordinal": [
+                {
+                    "value": 6,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 8,
+                        "annotationText": " июня"
+                    }
+                }
+            ],
+            "year_modifier": [
+                {
+                    "value": 0,
+                    "annotations": {
+                        "annotationStart": 9,
+                        "annotationEnd": 22,
+                        "annotationText": " текущего года"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " до июня текущего года "
+}

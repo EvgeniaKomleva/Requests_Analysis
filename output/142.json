@@ -1,0 +1,33 @@
+{
+    "DateInterval": [
+        {
+            "id": "148",
+            "week_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 43,
+                        "annotationText": " прошлую неделю"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": "149",
+            "surname": [
+                {
+                    "value": "павлов",
+                    "annotations": {
+                        "annotationStart": 7,
+                        "annotationEnd": 14,
+                        "annotationText": "Павлова"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " отчет Павлова на портале за прошлую неделю "
+}

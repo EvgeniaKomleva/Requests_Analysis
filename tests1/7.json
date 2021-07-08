@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 8,
+            "day_ordinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 9,
+                        "annotationText": " вчера"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за вчера "
+}

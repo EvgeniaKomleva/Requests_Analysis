@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "43",
+            "week_ordinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 25,
+                        "annotationText": " две предыдущих недели"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за две предыдущих недели "
+}

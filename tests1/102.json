@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 103,
+            "month_cardinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 16,
+                        "annotationText": " первый месяц"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2020,
+                    "annotations": {
+                        "annotationStart": 17,
+                        "annotationEnd": 21,
+                        "annotationText": " 2020"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за первый месяц 2020 года "
+}

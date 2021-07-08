@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 124,
+            "month_cardinal": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 17,
+                        "annotationText": " прошлом месяце"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " в прошлом месяце "
+}

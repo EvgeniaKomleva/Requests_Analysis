@@ -1,0 +1,11 @@
+{
+    "Author": [
+        {"value": 10,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 11,
+                        "annotationText": " 10 дней"
+                    },
+    ],
+    "documentText": " за 2 полугодя "
+}

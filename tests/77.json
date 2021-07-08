@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "83",
+            "day_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 1,
+                        "annotationEnd": 8,
+                        "annotationText": " три дня"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " три дня назад "
+}

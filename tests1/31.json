@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 32,
+            "week_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 21,
+                        "annotationText": " предыдущую неделю"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за предыдущую неделю "
+}

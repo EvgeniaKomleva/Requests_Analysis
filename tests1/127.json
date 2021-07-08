@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 128,
+            "year_end_ordinal": [
+                {
+                    "value": 2010,
+                    "annotations": {
+                        "annotationStart": 8,
+                        "annotationEnd": 12,
+                        "annotationText": " 2010"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 2005,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 7,
+                        "annotationText": " 2005"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " в 2005-2010 годах "
+}

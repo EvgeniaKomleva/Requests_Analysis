@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 68,
+            "month_end_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 12,
+                        "annotationText": " 3 месяца"
+                    }
+                }
+            ],
+            "month_start_cardinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 12,
+                        "annotationText": " 3 месяца"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за 3 месяца "
+}

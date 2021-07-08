@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 35,
+            "half_year": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 24,
+                        "annotationText": " предыдущее полугодие"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за предыдущее полугодие "
+}

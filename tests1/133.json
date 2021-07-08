@@ -1,0 +1,41 @@
+{
+    "DateInterval": [
+        {
+            "id": 134,
+            "month_end_ordinal": [
+                {
+                    "value": 12,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 36,
+                        "annotationText": " декабря"
+                    }
+                }
+            ],
+            "year_ordinal": [
+                {
+                    "value": 2012,
+                    "annotations": {
+                        "annotationStart": 37,
+                        "annotationEnd": 41,
+                        "annotationText": " 2012"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 10,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 18,
+                        "annotationText": " октября"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с первого октября по первое декабря 2012 года "
+}

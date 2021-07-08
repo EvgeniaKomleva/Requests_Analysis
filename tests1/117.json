@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 118,
+            "month_end_ordinal": [
+                {
+                    "value": 10,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 21,
+                        "annotationText": " октябрь"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 8,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 10,
+                        "annotationText": " августа"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с августа по октябрь "
+}

@@ -1,0 +1,21 @@
+{
+    "DateInterval": [
+        {
+            "id": 31,
+            "day_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 19,
+                        "annotationText": " предыдущий день"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за предыдущий день "
+}

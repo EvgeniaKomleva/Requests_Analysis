@@ -1,0 +1,51 @@
+{
+    "DateInterval": [
+        {
+            "id": 114,
+            "month_end_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 23,
+                        "annotationEnd": 27,
+                        "annotationText": " март"
+                    }
+                }
+            ],
+            "year_end_ordinal": [
+                {
+                    "value": 2012,
+                    "annotations": {
+                        "annotationStart": 28,
+                        "annotationEnd": 32,
+                        "annotationText": " 2012"
+                    }
+                }
+            ],
+            "month_start_ordinal": [
+                {
+                    "value": 1,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 9,
+                        "annotationText": " января"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 2011,
+                    "annotations": {
+                        "annotationStart": 10,
+                        "annotationEnd": 14,
+                        "annotationText": " 2011"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с января 2011 года по март 2012го "
+}

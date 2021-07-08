@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "15",
+            "day_modifier": [
+                {
+                    "value": -0.5,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 18,
+                        "annotationText": " последний день"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за последний день "
+}

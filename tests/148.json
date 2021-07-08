@@ -1,0 +1,33 @@
+{
+    "DateInterval": [
+        {
+            "id": "159",
+            "quarter_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 36,
+                        "annotationEnd": 51,
+                        "annotationText": " прошлый квартал"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {
+            "id": "160",
+            "firstname": [
+                {
+                    "value": "светлана",
+                    "annotations": {
+                        "annotationStart": 19,
+                        "annotationEnd": 27,
+                        "annotationText": "Светланы"
+                    }
+                }
+            ]
+        }
+    ],
+    "documentText": " квартальный отчет Светланы docx за прошлый квартал "
+}

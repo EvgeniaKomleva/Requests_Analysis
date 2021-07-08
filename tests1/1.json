@@ -1,0 +1,28 @@
+{
+    "Author": [
+        {
+            "id": 2,
+            "Person1": {
+                "text": "Иванова Павла Петровича",
+                "firstname": "павел",
+                "surname": "иванов",
+                "patronymic_name": "пётр",
+                "annotations": {
+                    "annotationStart": 11,
+                    "annotationEnd": 34
+                }
+            },
+            "Person2": {
+                "text": "Марии",
+                "firstname": "мария",
+                "surname": "",
+                "patronymic_name": "",
+                "annotations": {
+                    "annotationStart": 38,
+                    "annotationEnd": 43
+                }
+            }
+        }
+    ],
+    "documentText": "справка от Иванова Павла Петровича  и Марии"
+}

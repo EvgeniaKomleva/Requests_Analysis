@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 116,
+            "year_end_ordinal": [
+                {
+                    "value": 2012,
+                    "annotations": {
+                        "annotationStart": 11,
+                        "annotationEnd": 15,
+                        "annotationText": " 2012"
+                    }
+                }
+            ],
+            "year_start_ordinal": [
+                {
+                    "value": 2001,
+                    "annotations": {
+                        "annotationStart": 3,
+                        "annotationEnd": 7,
+                        "annotationText": " 2001"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с 2001 по 2012 гг "
+}

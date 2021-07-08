@@ -1,0 +1,31 @@
+{
+    "DateInterval": [
+        {
+            "id": 75,
+            "year_end_cardinal": [
+                {
+                    "value": 10,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 14,
+                        "annotationText": " десять лет"
+                    }
+                }
+            ],
+            "year_start_cardinal": [
+                {
+                    "value": 10,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 14,
+                        "annotationText": " десять лет"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " за десять лет "
+}

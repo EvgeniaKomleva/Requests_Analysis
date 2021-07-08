@@ -1,0 +1,49 @@
+{
+    "DateInterval": [
+        {
+            "id": 139,
+            "year_end_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 42,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "year_start_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 29,
+                        "annotationEnd": 42,
+                        "annotationText": " прошлого года"
+                    }
+                }
+            ],
+            "quarter_end_ordinal": [
+                {
+                    "value": 3,
+                    "annotations": {
+                        "annotationStart": 14,
+                        "annotationEnd": 28,
+                        "annotationText": " третий квартал"
+                    }
+                }
+            ],
+            "quarter_start_ordinal": {
+                "value": 1,
+                "annotations": {
+                    "annotationStart": 3,
+                    "annotationEnd": 10,
+                    "annotationText": "первого"
+                }
+            }
+        }
+    ],
+    "Author": [
+        {}
+    ],
+    "documentText": " с первого по третий квартал прошлого года "
+}

@@ -1,0 +1,19 @@
+{
+    "DateInterval": [
+        {
+            "id": "27",
+            "week_modifier": [
+                {
+                    "value": -1,
+                    "annotations": {
+                        "annotationStart": 4,
+                        "annotationEnd": 18,
+                        "annotationText": " прошлую неделю"
+                    }
+                }
+            ]
+        }
+    ],
+    "Author": [],
+    "documentText": " за прошлую неделю "
+}
